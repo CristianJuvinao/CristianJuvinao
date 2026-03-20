@@ -33,7 +33,6 @@ Aquí algunas de las tecnologías que uso:
 Aplicación web para consultar el clima en tiempo real usando React + Vite.
 
 🔗 Repositorio: https://github.com/CristianJuvinao/clima  
-🌍 Demo: https://TU-SITIO.netlify.app
 
 ---
 
@@ -50,8 +49,7 @@ Me gusta:
 
 | Plataforma | Enlace |
 |------------|--------|
-| 💼 GitHub | https://github.com/CristianJuvinao |
-| 📩 Email | tuemail@gmail.com |
+| 📩 Email |cdjuvinao@mail.uniatlantico.edu.co |
 
 ---
 
