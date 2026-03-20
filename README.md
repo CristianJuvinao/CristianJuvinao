@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hola, soy Cristian Juvinao
 
-<!--
-**CristianJuvinao/CristianJuvinao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en formación  
+🎓 Educación Física & Desarrollo de Software  
+📍 Colombia 🇨🇴  
 
-Here are some ideas to get you started:
+Me gusta crear aplicaciones web funcionales, limpias y bien estructuradas.  
+Actualmente trabajo con **React, Vite y JavaScript**, y sigo aprendiendo cada día 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mí
+- 🏋️‍♂️ Licenciado en Educación Física  
+- 💻 Estudiante de Análisis y Desarrollo de Software  
+- 🌦️ Desarrollo proyectos web como apps del clima  
+- 🔥 Me enfoco en mejorar lógica, estructura y diseño  
+
+---
+
+## 🛠️ Tecnologías que uso
+- ⚛️ React  
+- ⚡ Vite  
+- 🟨 JavaScript  
+- 🎨 CSS  
+- 🌐 APIs REST  
+- 🔧 Git & GitHub  
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🌦️ Weather App
+Aplicación web para consultar el clima en tiempo real usando React + Vite.
+
+🔗 Repositorio: https://github.com/CristianJuvinao/clima  
+🌍 Demo: https://TU-SITIO.netlify.app  
+
+**Tecnologías:** React, Vite, API OpenWeather, CSS
+
+---
+
+## 📈 En qué estoy trabajando
+- 🔹 Mejorando mis proyectos con React
+- 🔹 Aprendiendo buenas prácticas de Git
+- 🔹 Construyendo mi portafolio como desarrollador
+
+---
+
+## 📫 Contacto
+- 📧 Email: tuemail@gmail.com  
+- 💼 GitHub: https://github.com/CristianJuvinao  
+
+---
+
+⭐ *Si te gustan mis proyectos, no olvides dejar una estrella*
