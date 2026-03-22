@@ -1,7 +1,7 @@
 <!-- ✨ Título con saludo -->
 # 👋 ¡Hola! Soy Cristian Juvinao
 
-🎓 **Estudiante de Desarrollo de Software & Licenciado en Educación Física**  
+🎓 **Desarrollo de Software & Licenciado en Educación Física**  
 📍 Barranquilla, Colombia 🇨🇴  
 💻 Transformando ideas en aplicaciones web con React y Vite
 
